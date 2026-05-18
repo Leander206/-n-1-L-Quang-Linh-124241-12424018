@@ -1,0 +1,253 @@
+D:\dotnet\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\dotnet\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\dotnet\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.frmDangNhap.resources
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\dotnet\QLBH\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Report1.rdlc
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\QLBH.exe
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\QLBH.pdb
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\en\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\vi\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\stdole.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmBaoBieu.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmDangNhap.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuHH.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuNV.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuKH.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmKhachHang.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmNhanVien.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmMain.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmMain.en.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmMain.vi.resources
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\en\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\vi\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.Up2Date
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.exe
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Lenovo\Downloads\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.exe.config
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\QLBH.exe
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\en\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Report1.rdlc
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\stdole.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmBaoBieu.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmDangNhap.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmhoadon.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmNhaCC.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuHH.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuNCC.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuNV.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmTraCuuKH.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmKhachHang.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.frmNhanVien.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmMain.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmMain.en.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.FrmMain.vi.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\en\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\vi\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.csproj.Up2Date
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.exe
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTrang\QLBH\obj\Debug\QLBH.exe.config
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.exe.config
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.FrmBaoBieu.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmDangNhap.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmhoadon.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmNhaCC.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmTraCuuHH.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmTraCuuNCC.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmTraCuuNV.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmTraCuuKH.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmKhachHang.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmNhanVien.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.FrmMain.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.FrmMain.en.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.FrmMain.vi.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.exe
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.pdb
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Report1.rdlc
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\QLBH.exe
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\QLBH.pdb
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\en\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\vi\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\EnvDTE.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\stdole.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmthongke.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\en\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\vi\QLBH.resources.dll
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.csproj.Up2Date
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.Form1.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmNhapHang.resources
+C:\Users\Lenovo\Downloads\File Đồ Án\QLCuaHangThoiTranglql\QLBH\obj\Debug\QLBH.frmTraCuuHoaDon.resources
