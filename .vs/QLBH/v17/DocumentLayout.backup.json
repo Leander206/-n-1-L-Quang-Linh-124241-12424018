@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuuncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuuncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|c:\\users\\lenovo\\downloads\\file \u0111\u1ED3 \u00E1n\\qlcuahangthoitranglql\\qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuuhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,7 +55,7 @@
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|c:\\users\\lenovo\\downloads\\file \u0111\u1ED3 \u00E1n\\qlcuahangthoitranglql\\qlbh\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuukh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuuhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuuncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|solutionrelative:qlbh\\frmtracuuncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC7A0EE2-2AE1-45B5-BB16-7C5199542AA8}|QLBH\\QLBH.csproj|C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\qlbh\\frmtracuunv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -226,7 +226,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -242,32 +242,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmthongke.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmthongke.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs [Design]*",
-              "RelativeToolTip": "QLBH\\frmthongke.cs [Design]*",
+              "DocumentIndex": 4,
+              "Title": "frmTraCuuKH.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuKH.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmTraCuuKH.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuKH.cs",
+              "RelativeToolTip": "QLBH\\frmTraCuuKH.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:15:39.849Z",
+              "WhenOpened": "2026-05-14T03:41:59.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTraCuuHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHoaDon.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmTraCuuHoaDon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHoaDon.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmTraCuuHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T02:36:33.161Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmthongke.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmthongke.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs*",
-              "RelativeToolTip": "QLBH\\frmthongke.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Title": "frmTraCuuNCC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuNCC.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmTraCuuNCC.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuNCC.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmTraCuuNCC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T13:44:59.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T04:16:28.162Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frm_main.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frm_main.cs",
               "RelativeDocumentMoniker": "QLBH\\frm_main.cs",
@@ -279,120 +291,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "frm_main.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frm_main.cs",
               "RelativeDocumentMoniker": "QLBH\\frm_main.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frm_main.cs",
               "RelativeToolTip": "QLBH\\frm_main.cs",
-              "ViewState": "AgIAACEBAAAAAAAAAAAQwCwBAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAuwHgBAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T12:24:13.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmKhachHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmKhachHang.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmKhachHang.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmKhachHang.cs [Design]",
-              "RelativeToolTip": "QLBH\\frmKhachHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T13:19:10.52Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "frmTraCuuHH.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmTraCuuHH.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs",
-              "RelativeToolTip": "QLBH\\frmTraCuuHH.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T03:48:26.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmTraCuuHH.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmTraCuuHH.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs [Design]",
-              "RelativeToolTip": "QLBH\\frmTraCuuHH.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T13:55:07.981Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmDangNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmDangNhap.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmDangNhap.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmDangNhap.cs [Design]",
-              "RelativeToolTip": "QLBH\\frmDangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:06:12.749Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmhoadon.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmhoadon.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs",
-              "RelativeToolTip": "QLBH\\frmhoadon.cs",
-              "ViewState": "AgIAAIEBAAAAAAAAAAAQwI8BAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:03:09.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmhoadon.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmhoadon.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs [Design]",
-              "RelativeToolTip": "QLBH\\frmhoadon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:15:56.945Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmthongke.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.Designer.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmthongke.Designer.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.Designer.cs*",
-              "RelativeToolTip": "QLBH\\frmthongke.Designer.cs*",
-              "ViewState": "AgIAAOwAAAAAAAAAAIAwwPwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T02:08:20.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmTraCuuKH.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuKH.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmTraCuuKH.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuKH.cs",
-              "RelativeToolTip": "QLBH\\frmTraCuuKH.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwEcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T03:41:59.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "frmTraCuuKH.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuKH.cs",
               "RelativeDocumentMoniker": "QLBH\\frmTraCuuKH.cs",
@@ -404,7 +316,110 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T13:19:10.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmthongke.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmthongke.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs",
+              "RelativeToolTip": "QLBH\\frmthongke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:44:59.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmthongke.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmthongke.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmthongke.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:15:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTraCuuHH.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmTraCuuHH.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs",
+              "RelativeToolTip": "QLBH\\frmTraCuuHH.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:48:26.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTraCuuHH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmTraCuuHH.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHH.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmTraCuuHH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:55:07.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:06:12.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmhoadon.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmhoadon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs",
+              "RelativeToolTip": "QLBH\\frmhoadon.cs",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAQwI8BAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:03:09.125Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "frmhoadon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmhoadon.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.cs [Design]",
+              "RelativeToolTip": "QLBH\\frmhoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T04:15:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmthongke.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.Designer.cs",
+              "RelativeDocumentMoniker": "QLBH\\frmthongke.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmthongke.Designer.cs",
+              "RelativeToolTip": "QLBH\\frmthongke.Designer.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAIAwwPwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T02:08:20.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "frmTraCuuHoaDon.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHoaDon.cs",
               "RelativeDocumentMoniker": "QLBH\\frmTraCuuHoaDon.cs",
@@ -417,19 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmTraCuuHoaDon.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHoaDon.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmTraCuuHoaDon.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuHoaDon.cs [Design]",
-              "RelativeToolTip": "QLBH\\frmTraCuuHoaDon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T02:36:33.161Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "frmNhapHang.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhapHang.cs",
               "RelativeDocumentMoniker": "QLBH\\frmNhapHang.cs",
@@ -437,48 +440,44 @@
               "RelativeToolTip": "QLBH\\frmNhapHang.cs",
               "ViewState": "AgIAAHkBAAAAAAAAAAAwwJMBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T02:36:39.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T02:36:39.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmNhapHang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhapHang.cs",
               "RelativeDocumentMoniker": "QLBH\\frmNhapHang.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhapHang.cs [Design]",
               "RelativeToolTip": "QLBH\\frmNhapHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T02:36:23.983Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-16T02:36:23.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmNhanVien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "QLBH\\frmNhanVien.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhanVien.cs [Design]",
               "RelativeToolTip": "QLBH\\frmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T13:55:06.357Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-11T13:55:06.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmNhaCC.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhaCC.cs",
               "RelativeDocumentMoniker": "QLBH\\frmNhaCC.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhaCC.cs [Design]",
               "RelativeToolTip": "QLBH\\frmNhaCC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T03:58:28.933Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-14T03:58:28.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "frmKhachHang.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmKhachHang.cs",
               "RelativeDocumentMoniker": "QLBH\\frmKhachHang.cs",
@@ -486,12 +485,11 @@
               "RelativeToolTip": "QLBH\\frmKhachHang.cs",
               "ViewState": "AgIAAL8AAAAAAAAAAADwv9kAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:56:41.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T04:56:41.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "frmDangNhap.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmDangNhap.cs",
               "RelativeDocumentMoniker": "QLBH\\frmDangNhap.cs",
@@ -499,12 +497,11 @@
               "RelativeToolTip": "QLBH\\frmDangNhap.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T12:13:36.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T12:13:36.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\Program.cs",
               "RelativeDocumentMoniker": "QLBH\\Program.cs",
@@ -512,12 +509,11 @@
               "RelativeToolTip": "QLBH\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T13:18:53.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T13:18:53.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "frmNhapHang.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhapHang.Designer.cs",
               "RelativeDocumentMoniker": "QLBH\\frmNhapHang.Designer.cs",
@@ -525,12 +521,11 @@
               "RelativeToolTip": "QLBH\\frmNhapHang.Designer.cs",
               "ViewState": "AgIAADoBAAAAAAAAAADwv0QBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T02:37:08.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T02:37:08.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "frmhoadon.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmhoadon.Designer.cs",
               "RelativeDocumentMoniker": "QLBH\\frmhoadon.Designer.cs",
@@ -538,12 +533,11 @@
               "RelativeToolTip": "QLBH\\frmhoadon.Designer.cs",
               "ViewState": "AgIAAE8BAAAAAAAAAAAtwFoBAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T08:14:04.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T08:14:04.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "frmNhanVien.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "QLBH\\frmNhanVien.cs",
@@ -551,32 +545,18 @@
               "RelativeToolTip": "QLBH\\frmNhanVien.cs",
               "ViewState": "AgIAAMwAAAAAAAAAAAApwOMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:29:24.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T04:29:24.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\Form1.cs",
               "RelativeDocumentMoniker": "QLBH\\Form1.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\Form1.cs [Design]",
               "RelativeToolTip": "QLBH\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T01:26:36.434Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "frmTraCuuNCC.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuNCC.cs",
-              "RelativeDocumentMoniker": "QLBH\\frmTraCuuNCC.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuNCC.cs [Design]",
-              "RelativeToolTip": "QLBH\\frmTraCuuNCC.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:16:28.162Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-16T01:26:36.434Z"
             },
             {
               "$type": "Document",
@@ -587,8 +567,7 @@
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\File \u0110\u1ED3 \u00C1n\\QLCuaHangThoiTranglql\\QLBH\\frmTraCuuNV.cs [Design]",
               "RelativeToolTip": "QLBH\\frmTraCuuNV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T13:19:15.407Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-13T13:19:15.407Z"
             },
             {
               "$type": "Document",
@@ -661,8 +640,7 @@
               "RelativeToolTip": "QLBH\\frmTraCuuNV.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADgvxkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T02:15:38.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T02:15:38.85Z"
             },
             {
               "$type": "Document",
@@ -785,8 +763,7 @@
               "RelativeToolTip": "QLBH\\frmNhaCC.cs",
               "ViewState": "AgIAANAAAAAAAAAAAAAAANMAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:00:14.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T04:00:14.58Z"
             },
             {
               "$type": "Document",
@@ -798,8 +775,7 @@
               "RelativeToolTip": "QLBH\\frmNhaCC.Designer.cs",
               "ViewState": "AgIAAI8AAAAAAAAAAAAhwKYAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:31:27.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T04:31:27.993Z"
             },
             {
               "$type": "Document",

@@ -19,7 +19,7 @@ namespace QLBH
             dateNgayNhap.CustomFormat = "dd/MM/yyyy";
         }
 
-        // ─── Load danh sách hàng hóa ──────────────────────────────────────
+        //Load danh sách hàng hóa
         private void LoadDsHangHoa()
         {
             var sql = @"SELECT MaSanPham, TenSanPham, KieuDang, GiaNhap, GiaXuat,
@@ -60,40 +60,43 @@ namespace QLBH
             }
         }
 
-        // ─── Form Load ────────────────────────────────────────────────────
+        //Form Load
         private void FrmMain_Load(object sender, EventArgs e)
         {
             PhanQuyen();
         }
 
-        // ─── Phân quyền: ẩn hẳn nút/menu với Nhân viên ───────────────────
+        // Phân quyền: ẩn hẳn nút/menu với Nhân viên
         private void PhanQuyen()
         {
             bool laMQL = (frmDangNhap.ChucVu == "Quản lý");
 
-            // Ẩn/hiện menu quản lý nhân viên, nhà cung cấp
-            nhânViênToolStripMenuItem.Visible       = laMQL;
+            // Chỉ Quản lý mới thấy: NV, NCC, tra cứu HDN
+            nhânViênToolStripMenuItem.Visible = laMQL;
             traCứuNhânViênToolStripMenuItem.Visible = laMQL;
-            nhàCungCấpToolStripMenuItem.Visible     = laMQL;
-            nhàCungCấpToolStripMenuItem1.Visible    = laMQL;
+            nhàCungCấpToolStripMenuItem.Visible = laMQL;
+            nhàCungCấpToolStripMenuItem1.Visible = laMQL;
+            traCuuHDNToolStripMenuItem.Visible = laMQL;
 
-            // Nhập hàng + tra cứu HDN: chỉ Quản lý mới được dùng
-            nhậpHàngToolStripMenuItem.Visible    = laMQL;
-            traCuuHDNToolStripMenuItem.Visible   = laMQL;
+            // Báo biểu: chỉ Quản lý
+            reportToolStripMenuItem.Visible = laMQL;
 
-            // Ẩn hẳn nút CRUD sản phẩm với Nhân viên
-            btnThem.Visible = laMQL;
-            btnSua.Visible  = laMQL;
-            btnXoa.Visible  = laMQL;
+            // ── Nhập hàng: cả hai role đều thấy ──────────────────────────
+            nhậpHàngToolStripMenuItem.Visible = true;
+
+            // ── CRUD sản phẩm: cả hai role đều thấy ──────────────────────
+            btnThem.Visible = true;
+            btnSua.Visible = true;
+            btnXoa.Visible = true;
 
             // Hiển thị thông tin quyền hạn
-            lblQuyenHan.Text      = laMQL
+            lblQuyenHan.Text = laMQL
                 ? "Quản lý — toàn quyền"
-                : "Nhân viên — chỉ xem & bán hàng";
+                : "Nhân viên — bán hàng & quản lý sản phẩm";
             lblQuyenHan.ForeColor = laMQL ? Color.DarkGreen : Color.DarkOrange;
         }
 
-        // ─── Thêm sản phẩm ────────────────────────────────────────────────
+        //Thêm sản phẩm
         private void btnThem_Click(object sender, EventArgs e)
         {
             if (frmDangNhap.ChucVu != "Quản lý") return;
@@ -141,7 +144,7 @@ namespace QLBH
             }
         }
 
-        // ─── Sửa sản phẩm ────────────────────────────────────────────────
+        // Sửa sản phẩm
         private void btnSua_Click(object sender, EventArgs e)
         {
             if (frmDangNhap.ChucVu != "Quản lý") return;
@@ -190,7 +193,7 @@ namespace QLBH
             }
         }
 
-        // ─── Xóa sản phẩm ────────────────────────────────────────────────
+        // Xóa sản phẩm 
         private void btnXoa_Click(object sender, EventArgs e)
         {
             if (frmDangNhap.ChucVu != "Quản lý") return;
@@ -243,7 +246,7 @@ namespace QLBH
             }
         }
 
-        // ─── Nhập lại ─────────────────────────────────────────────────────
+        //Nhập lại
         private void btnNhapLai_Click(object sender, EventArgs e)
         {
             txtMa.ReadOnly = false;
@@ -257,7 +260,7 @@ namespace QLBH
             txtMa.Focus();
         }
 
-        // ─── Click dòng DGV ───────────────────────────────────────────────
+        //Click dòng DGV
         private void dgv_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex < 0 || dgv.SelectedRows.Count == 0) return;
@@ -319,13 +322,13 @@ namespace QLBH
             }
         }
 
-        // ─── STT ──────────────────────────────────────────────────────────
+        //STT 
         private void dgv_RowPrePaint(object sender, DataGridViewRowPrePaintEventArgs e)
         {
             dgv.Rows[e.RowIndex].Cells["STT"].Value = e.RowIndex + 1;
         }
 
-        // ─── Chọn ảnh ─────────────────────────────────────────────────────
+        //Chọn ảnh 
         private void btnChon_Click(object sender, EventArgs e)
         {
             using (var ofd = new OpenFileDialog
@@ -342,7 +345,7 @@ namespace QLBH
             }
         }
 
-        // ─── Menu điều hướng ──────────────────────────────────────────────
+        //Menu điều hướng ──────────────────────────────────────────────
         private void hóaĐơnToolStripMenuItem_Click(object sender, EventArgs e)
         { new frmhoadon().Show(); this.Hide(); }
 
@@ -368,17 +371,20 @@ namespace QLBH
         { new frmTraCuuHH().Show(); this.Hide(); }
 
         private void reportToolStripMenuItem_Click(object sender, EventArgs e)
-        { new FrmBaoBieu().Show(); this.Hide(); }
+        {
+            if (frmDangNhap.ChucVu != "Quản lý")
+            {
+                MessageBox.Show("Bạn không có quyền xem báo biểu!",
+                    "Từ chối", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            new FrmBaoBieu().Show();
+            this.Hide();
+        }
 
         // ── Nhập hàng (chỉ Quản lý) ──────────────────────────────────────
         private void nhậpHàngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (frmDangNhap.ChucVu != "Quản lý")
-            {
-                MessageBox.Show("Bạn không có quyền truy cập chức năng này!",
-                    "Từ chối", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
             new frmNhapHang().Show();
         }
 
@@ -413,7 +419,7 @@ namespace QLBH
                 Application.Exit();
         }
 
-        // ─── KeyPress helpers ─────────────────────────────────────────────
+        //KeyPress helpers ─────────────────────────────────────────────
         private void NhapSo(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && e.KeyChar != '.')
